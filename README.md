@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DulnethFernando
-- 👀 I’m interested in frontend developement
-- 🌱 I’m currently learning japascript ui libraries
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me www.dulscratchacademy@gmail.com
 
